@@ -1,0 +1,11 @@
+.bar{display: inline;
+margin-right: 15px;
+font-size: 20px;}
+body{background-color: #bbf6da;}
+img{align-content: center;}
+h1{padding-top: 5%;}
+p{font-size: 20px;}
+.name{border: 2px solid #9de0fc}
+
+.one:hover{background-color: #9de0fc}
+.one:active{background: #9de0fc}
